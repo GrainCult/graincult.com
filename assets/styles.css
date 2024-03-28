@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(120deg, #E4C798, #795d1e);
+    background: linear-gradient(135deg, #ff00ff, #00ffff);
     height: 100vh;
 }
 .container {
@@ -25,7 +25,7 @@ p {
 .catchy {
     text-align: center;
     font-size: 24px;
-    color: #aa8b54;
+    color: #ff00ff;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 40px;
